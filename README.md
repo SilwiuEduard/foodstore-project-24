@@ -49,3 +49,11 @@
       2. Add HTML
       3. Add TS
       4. Add CSS
+
+6. Meal(Food) Single Page
+   1. Add method to food service
+   2. Generate Meal(Food) page component
+      1. Add route
+      2. Add HTML
+      3. Add TS
+      4. Add CSS
